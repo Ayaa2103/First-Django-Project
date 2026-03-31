@@ -1,3 +1,5 @@
+# Defines the settings of application.
+
 """
 Django settings for storefront project.
 

@@ -1,3 +1,5 @@
+# uses for Deployment of application.
+
 """
 WSGI config for storefront project.
 

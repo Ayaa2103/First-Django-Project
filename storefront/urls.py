@@ -1,3 +1,5 @@
+# Defines the urls of application.
+
 """
 URL configuration for storefront project.
 
